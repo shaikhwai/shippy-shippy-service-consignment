@@ -1,4 +1,4 @@
-module github.com/EwanValentine/shippy-service-consignment
+module github.com/shaikhwai/shippy-service-consignment
 
 go 1.12
 
